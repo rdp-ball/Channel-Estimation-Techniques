@@ -1,6 +1,6 @@
 # Channel-Estimation-Techniques
 
-This repository contains various channel estimation techniques used in wireless communication systems. The focus is on the implementation and analysis of these techniques to improve the accuracy and efficiency of data transmission in different communication environments.
+This repository contains various channel estimation techniques used in wireless communication systems. The focus is on the implementation and analysis of these techniques to improve the accuracy and efficiency of data transmission by effectively estimation the channel .
 
 ## Overview
 
